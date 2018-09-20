@@ -63,6 +63,7 @@ Labels are additional metadata that may be attached to issues and pull requests.
 
 - `bug` The issue is a bug
 - `feature` The issue is releated to the introduction of a new feature or functionality
+- `improvement` The issue involves an improvement to existing functionality
 - `duplicate` The issue is a duplicate of an existing issue
 - `confirm` The issue needs to be confirmed by the project maintainers
 - `wont-fix` The issue is rejected by the project maintainers

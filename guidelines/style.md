@@ -38,16 +38,15 @@ When contributing to projects owned by other entities, adhere to any guidelines 
  - Arduino library
 
 ## Language-specific
-- c
-- c++
- - Use `()` instead of `(void)` for functions with no parameters
- - Do not add `;` after method definitions
+- c / c++
+  - Use `()` instead of `(void)` for functions with no parameters
+  - Do not add `;` after method definitions
 - Python
- - Use python3
- - Use [typehints](https://www.python.org/dev/peps/pep-0484/)
- - Use [PEP8](https://www.python.org/dev/peps/pep-0008/) guidelines when they do not disagree with our own
+  - Use python3
+  - Use [typehints](https://www.python.org/dev/peps/pep-0484/)
+  - Use [PEP8](https://www.python.org/dev/peps/pep-0008/) guidelines when they do not disagree with our own
 - Javascript
- - Semicolons are required after every statement
+  - Semicolons are required after every statement
 
 ## Reference
 

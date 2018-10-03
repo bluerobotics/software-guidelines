@@ -50,4 +50,4 @@ When contributing to projects owned by other entities, adhere to any guidelines 
 
 ## Reference
 
-- (google style guide)[https://google.github.io/styleguide/cppguide.html]
+- [google style guide](https://google.github.io/styleguide/cppguide.html)

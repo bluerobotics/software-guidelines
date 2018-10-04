@@ -48,6 +48,26 @@ When contributing to projects owned by other entities, adhere to any guidelines 
 - Javascript
   - Semicolons are required after every statement
 
+## IDEs
+Here you can find some nice configurations to avoid style problems. 
+### Visual Studio Code (Code)
+
+#### Settings
+Style configuration for *code*:
+```json
+{
+    "editor.renderControlCharacters": true,
+    "editor.renderWhitespace": "all",
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true
+}
+```
+- `renderControlCharacters` and `renderWhitespace` helps to avoid multiple whitespaces and unnecessary invisible caracters.
+- `insertFinalNewLines` will add an empty line in the end of the file.
+- `trimFinalNewLines` will remove any unnecessary empty lines in the end of the file.
+- `trimTrailingWhitespace` remove trailing spaces in file, **this is the most important one**.
+
 ## Reference
 
 - [google style guide](https://google.github.io/styleguide/cppguide.html)

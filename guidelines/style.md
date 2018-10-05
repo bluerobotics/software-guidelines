@@ -14,10 +14,10 @@ When contributing to projects owned by other entities, adhere to any guidelines 
 - Use [astyle](http://astyle.sourceforge.net/astyle.html)!
     - Use "One True Brace Style" (--style=otbs)
 - Regardless of the language, always use double quotes for strings, single quotes for characters
-- Maximum line length allowed in any source file is 80 characters
+- Maximum line length allowed in any source file is 120 characters
 
 ## Whitespace
-- Spaces only. Everywhere. No tabs
+- Spaces only. Everywhere except makefiles. No tabs.
 - Apply whitespace liberally for the sake of readability
 - No trailing whitespace. Anywhere. Ever.
 - A single newline should exist at the end of every file

@@ -58,12 +58,14 @@ Style configuration for *code*:
 {
     "editor.renderControlCharacters": true,
     "editor.renderWhitespace": "all",
+    "editor.rulers": [120],
     "files.insertFinalNewline": true,
     "files.trimFinalNewlines": true,
     "files.trimTrailingWhitespace": true
 }
 ```
 - `renderControlCharacters` and `renderWhitespace` helps to avoid multiple whitespaces and unnecessary invisible caracters.
+- `rulers` marks the column in the editor to avoid exceeding 120 charcter line width
 - `insertFinalNewLines` will add an empty line in the end of the file.
 - `trimFinalNewLines` will remove any unnecessary empty lines in the end of the file.
 - `trimTrailingWhitespace` remove trailing spaces in file, **this is the most important one**.

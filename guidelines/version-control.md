@@ -59,15 +59,7 @@ All bugs and feature requests should be tracked in github issues. Commits and pu
 
 ### Labels
 
-Labels are additional metadata that may be attached to issues and pull requests. Each project has its own labels. Every project should have these labels:
-
-- `bug` The issue is a bug
-- `feature` The issue is releated to the introduction of a new feature or functionality
-- `improvement` The issue involves an improvement to existing functionality
-- `duplicate` The issue is a duplicate of an existing issue
-- `confirm` The issue needs to be confirmed by the project maintainers
-- `wont-fix` The issue is rejected by the project maintainers
-- `waiting` Something else must be resolved before the issue can be fully addressed
+[Labels](https://help.github.com/articles/about-labels) are additional metadata that may be attached to issues and pull requests. Each project has its own labels. Every project should have (and put to use) the [github default labels](https://help.github.com/articles/about-labels/#using-default-labels).
 
 ### Milestones
 

@@ -10,7 +10,7 @@ When contributing to projects owned by other entities, adhere to any guidelines 
  - Lead with lowercase for variables and methods (eg. `myMethod`)
  - Lead with uppercase for classes (eg. `MyClass`)
  - Private members should be prefixed with an underscore (eg. `_myPrivateVariable`)
-- When naming files, variables, methods etc. avoid abbreviations and ambiguous/vague identifiers; be verbose to the point that it is totally clear (eg. minTemperature instead of minTemp, degreesC rather than degC).
+- When naming files, variables, methods etc. avoid abbreviations and ambiguous/vague identifiers; be verbose to the point that it is totally clear (eg. minTemperature instead of minTemp, degreesC rather than degC, firmware instead of fw). There _may_ be exceptions for abbreviations that are *especially common and clear* like `min` and `max`. The point is to leave behind absolutely zero ambiguity and to increase readability and understanding, at the small price of a few extra characters.
 - Use [astyle](http://astyle.sourceforge.net/astyle.html)!
     - Use "One True Brace Style" (--style=otbs)
 - Regardless of the language, always use double quotes for strings, single quotes for characters

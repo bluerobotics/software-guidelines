@@ -42,7 +42,7 @@ The number of branches in the organization repository should be minimized. Gener
 
 ### Issues
 
-All bugs and feature requests should be tracked in github issues. Commits and pull requests that close a particular issue should reference the issue.
+All bugs and feature requests should be tracked in github issues. Pull requests that close a particular issue should reference the issue, so that the issue will be [automatically closed](https://help.github.com/articles/closing-issues-using-keywords/) when the pull request is merged. Do not reference github issues in commit messages. This will keep the git repository decoupled from github, and the better option is to call out the problem itself rather than the github issue in the commit message. ie 'fixes *bug that does this*' instead of 'fixes #124'.
 
 ### Pull Requests
 

@@ -5,8 +5,8 @@
 - [Code](guidelines/code.md)
 - [Style](guidelines/style.md)
 - [Version Control](guidelines/version-control.md)
-- [Communication](guidelines/communicating.md)
+- [Communication](guidelines/communication.md)
 
 ## Tools, Tips, and Tricks
 
-- [Compilers](guidelines/compilers.md)
+- [Compilers](tools/compilers.md)

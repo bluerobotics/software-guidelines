@@ -15,10 +15,7 @@ Github
 - All issues and feature requests should be tracked in github. Wherever possible and appropriate, put conversation regarding our software projects in github. This will maximize transparency for our organization's work, as well as provide better tracking of the project's development.
 
 [Slack](https://bluerobotics.slack.com/)
-- The preferred communication channel for Blue Robotics software team
-
-Hangouts
-- General chat among all BR engineers
+- The preferred communication channel for within Blue Robotics
 
 [Google Meeting Room](https://meet.google.com/nsm-nktz-chj)
 - For meeting by voice

@@ -75,3 +75,8 @@ Tags in the organization project repository are generally reserved for tagging v
 - [gitref](http://gitref.org)
 - [progit](http://progit.org)
 - [gitready](http://gitready.com)
+
+### Patrick posts
+- [How to rock: First tips](https://patrickelectric.work/blog/2020/how-to-rock-first-tips/)
+- [How to rock: Flowing with git](https://patrickelectric.work/blog/2020/how-to-rock-flowing-with-git/)
+- [How to rock: Doing the right thing](https://patrickelectric.work/blog/2020/how-to-rock-contribution-tips/)

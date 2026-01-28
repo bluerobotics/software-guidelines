@@ -1,6 +1,6 @@
 # Style Guidelines
 
-When contributing to projects owned by other entities, adhere to any guidelines set forth by those entities (eg. ardupilot). The style guidelines for projects owned by Blue Robotics is documented here.
+When contributing to projects owned by other entities, adhere to any guidelines set forth by those entities (eg. ArduPilot). The style guidelines for projects owned by Blue Robotics is documented here.
 
 ## Code
 

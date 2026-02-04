@@ -61,7 +61,8 @@ void setWidth(int width);
 - Use all lower case and `-` in place of spaces for directory and file names (eg. `src/`, `icon-blue.png`)
 
 ## Language-specific
-- c / c++
+- C / C++
+  - Use C++14 or newer standard
   - Use `()` instead of `(void)` for functions with no parameters
   - Do not add `;` after method definitions
 - Python
@@ -86,6 +87,10 @@ void setWidth(int width);
   - One component per `.vue` file
   - Use Vuetify theme colors (`primary`, `success`, etc.) instead of hardcoded colors
   - Clear intervals/timeouts in `onUnmounted()` or `beforeDestroy()`
+- Rust
+  - Follow standard Rust conventions and idioms
+  - Use `cargo fmt` for formatting
+  - Use `cargo clippy` for linting
 
 ## IDEs
 Here you can find some nice configurations to avoid style problems.

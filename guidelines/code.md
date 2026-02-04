@@ -118,12 +118,19 @@ Code should be developed with a high level of abstraction and with portability i
 - For embedded applications, multiple (if not any and all) targets should be considered (eg. SBCs for companion, uCs for sensor drivers)
 - Use a transparent build system to expose all dependencies and requirements to build a project. Don't rely on eclipse to generate your makefiles; avoid closed vendor tools and compilers like `arm-attolic-eabi-gcc`. Anyone should be able to clone one of our projects and build it with readily available opensource toolchains.
 
+## Dependencies
+
+- Pin all dependencies to exact versions in dependency files (`package.json`, `requirements.txt`, `Cargo.toml`, etc.)
+- Keep dependencies, toolchains, and compilers up to date with the latest stable releases
+
 ## Modern Best Practices
 
-Take time maintain your education on modern best practices for your software projects.
+Take time to maintain your education on modern best practices for your software projects.
 
-- Use at least c++11 or newer standard for c projects
-- Use python3 for python projects
+- Use C++14 or newer standard for C++ projects
+- Use Python 3.11+ for Python projects
+- Use Rust for new systems programming and backend services
+- Use TypeScript for web applications
 - Generally keep our projects, dependencies, toolchains, and compilers up to date with the latest stable releases
 
 ## What should be avoided

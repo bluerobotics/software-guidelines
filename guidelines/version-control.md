@@ -47,7 +47,8 @@ All bugs and feature requests should be tracked in github issues. Pull requests 
 ### Pull Requests
 
 - All code must be reviewed in a pull request before merging to master
-- Add the `[WIP]` prefix to work-in-progress pull requests that are not ready for merge
+- **Minimum 1 approval required**
+- Add the `[WIP]` prefix to work-in-progress pull requests that are not ready for merge, or use GitHub's draft PR feature
 - Consolidate pull requests: Rather than creating multiple PRs for the same feature, update existing open ones with necessary modifications. This preserves review history and helps maintainers track your development progression
 - Keep PRs focused and self-contained: Avoid combining multiple features in one PR. Complex pull requests can balloon during review and become difficult to merge
 - Prepare your pull request so that it is convenient to review
@@ -70,6 +71,11 @@ Milestones are used to collect issues and pull requests that need to go into a p
 ### Tags
 
 Tags in the organization project repository are generally reserved for tagging versions. Personal development tags should go in your personal fork.
+
+## Versioning
+
+- Use [Semantic Versioning (SemVer)](https://semver.org/)
+- Tags in organization repositories are reserved for version releases
 
 ## Git Tools and Workflows
 
